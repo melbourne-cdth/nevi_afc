@@ -1,0 +1,7 @@
+name: cdth_nevi
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - ipywidgets
+  - markdown
